@@ -20,4 +20,5 @@ def main():
         print(f"Agent: {agent_response}")
 
 if __name__ == "__main__":
+    __package__ = "src"
     main()
